@@ -1,0 +1,8 @@
+site_name: "docs9"
+site_description: "docs9"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
